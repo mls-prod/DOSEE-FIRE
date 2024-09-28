@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.20304de0.css",
+    "main.css": "/static/css/main.2d7dcdae.css",
     "main.js": "/static/js/main.b11fb954.js",
     "static/media/loading.webp": "/static/media/loading.487ddfdee1c7bab9a69b.webp",
     "index.html": "/index.html",
@@ -11,7 +11,7 @@
     "static/media/telegram.svg": "/static/media/telegram.c7b359a0105dea5ce0362d65465c4633.svg"
   },
   "entrypoints": [
-    "static/css/main.20304de0.css",
+    "static/css/main.2d7dcdae.css",
     "static/js/main.b11fb954.js"
   ]
 }
