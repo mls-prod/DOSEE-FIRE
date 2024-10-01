@@ -1,6 +1,6 @@
 export const images = {
     logo: '/loader.webp', // if using local images
-    tapImage: "/maxitap.webp",
+    tapImage: "/ktaplogo.png",
     loadingScreen: '/loading.webp', // if using URLs
   };
   
