@@ -6,7 +6,7 @@ export const images = {
   
   export const texts = {
     projectName: "MAXITAP",
-    projectSymbol: "MAX",
+    projectSymbol: "Kabuso",
   };
 
   export const urls = {
