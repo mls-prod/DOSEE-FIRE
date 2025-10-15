@@ -10,7 +10,7 @@ export const images = {
   };
 
   export const urls = {
-    appUrl: "https://dosee-fire.vercel.app/",
+    appUrl: "https://doseemls.vercel.app",
     botUsername: "hmstmlsbot",
 
   }
