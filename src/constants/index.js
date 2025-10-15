@@ -5,13 +5,13 @@ export const images = {
   };
   
   export const texts = {
-    projectName: "MAXITAP",
-    projectSymbol: "Kabuso",
+    projectName: "HAMSTER",
+    projectSymbol: "MLS",
   };
 
   export const urls = {
     appUrl: "https://maxitap.netlify.app",
-    botUsername: "maxitapbot",
+    botUsername: "hmstmlsbot",
 
   }
   
