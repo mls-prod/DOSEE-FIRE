@@ -4,12 +4,13 @@ import { getAuth, setPersistence, browserLocalPersistence } from 'firebase/auth'
 
 //* Add the Web App's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_API_KEY,
-  authDomain: process.env.REACT_APP_AUTH_DOMAIN,
-  projectId: process.env.REACT_APP_PROJECT_ID,
-  storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-  appId: process.env.REACT_APP_APP_ID,
+  apiKey: "AIzaSyAQEI01TPPgTyFhiOgEGDLBnnXAilJzuQY",
+  authDomain: "lares-ae313.firebaseapp.com",
+  projectId: "lares-ae313",
+  storageBucket: "lares-ae313.firebasestorage.app",
+  messagingSenderId: "723949289685",
+  appId: "1:723949289685:web:896a92461e18d12bb6e25c",
+  measurementId: "G-V6DNY484YR"
 };
 
 //* Initialize Firebase
