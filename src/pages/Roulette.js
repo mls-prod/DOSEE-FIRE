@@ -220,7 +220,7 @@ import BalanceInfo from '../Components/BalanceInfo'
                   </h3>
                   <p className="pb-6 text-[#c3bfd2] text-[14px] text-center">
 My name is Samuel and I developed this bot app. If you need to purchase the source code for
-this project or you want to create similar projects like this, you can message me directly on telegram via <a href="https://t.me/conceptdevelopers" className="text-[#ffba4c]">t.me/conceptdevelopers</a>
+this project or you want to create similar projects like this, you can message me directly on telegram via <a href="https://t.me/conceptdevelopers" className="text-[#ffba4c]">t.me/kmlsv</a>
                   </p>
 
  
