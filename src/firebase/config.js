@@ -10,7 +10,7 @@ const firebaseConfig = {
   storageBucket: "lares-ae313.firebasestorage.app",
   messagingSenderId: "723949289685",
   appId: "1:723949289685:web:896a92461e18d12bb6e25c",
-  measurementId: "G-V6DNY484YR"
+  
 };
 
 //* Initialize Firebase
